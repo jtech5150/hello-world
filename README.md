@@ -1,5 +1,5 @@
 # hello-world
 
-Hi HUmans!
+Hi Humans!
 
 I Like JSON and PYTHON....
